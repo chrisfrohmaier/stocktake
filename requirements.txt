@@ -7,7 +7,7 @@ idna==2.9
 ipaddress==1.0.17
 keyring==10.6.0
 keyrings.alt==3.0
-lxml==4.5.0
+lxml==4.6.3
 numpy==1.16.6
 pandas==0.24.2
 pandas-datareader==0.8.1
